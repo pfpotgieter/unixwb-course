@@ -1,2 +1,1 @@
-text for file
-Another lineof text
+This text was added in the development branch
